@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there 👋
+
+## Currently working on...
+~Deep in Cloverpit~
+
+I'm too bored and I need projects...
+
+## Education
+Northeastern University Silicon Valley, Khoury College of Computer Sciences(San Jose, United States)
+- Master of Science in Computer Science
+- 2026 – Present
+
+University of Michigan - Shanghai Jiao Tong University Joint Institute(Shanghai, China)
+- Bachelor of Engineering in Electrical and Computer Engineering
+
+
 
 <!--
 **AllisonLT/AllisonLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
