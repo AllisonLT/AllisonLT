@@ -5,6 +5,8 @@
 
 I'm too bored and I need projects...
 
+[A Game teaching linked-list basics](https://github.com/AllisonLT/linked-list-game)
+
 ## Education
 Northeastern University Silicon Valley, Khoury College of Computer Sciences(San Jose, United States)
 - Master of Science in Computer Science
