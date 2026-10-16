@@ -1,6 +1,8 @@
 # Hi there 👋
 
-## I'm a fan of:
+📫 allison.year@gmail.com
+
+## ⚡I'm a fan of:
 - Machine Learning in general
 - Simple games (without GPU because I'm broke)
 - 🏓 Ping Pong!
