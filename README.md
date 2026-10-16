@@ -1,13 +1,16 @@
 # Hi there 👋
 
-## Currently working on...
+## I'm a fan of:
+- Machine Learning in general
+- Simple games (without GPU because I'm broke)
+- 🏓 Ping Pong!
+
+## 🔭 Currently working on...
 ~Deep in Cloverpit~
 
-I'm too bored and I need projects...
+[A game teaching linked-list basics](https://github.com/AllisonLT/linked-list-game)
 
-[A Game teaching linked-list basics](https://github.com/AllisonLT/linked-list-game)
-
-## Education
+## 🎓 Education
 Northeastern University Silicon Valley, Khoury College of Computer Sciences(San Jose, United States)
 - Master of Science in Computer Science
 - 2026 – Present
