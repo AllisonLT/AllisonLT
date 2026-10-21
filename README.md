@@ -12,6 +12,8 @@
 
 [A game teaching linked-list basics](https://github.com/AllisonLT/linked-list-game)
 
+[Course Project (private at the moment)](https://github.com/AllisonLT/CS5010-Team-Project)
+
 ## 🎓 Education
 Northeastern University Silicon Valley, Khoury College of Computer Sciences(San Jose, United States)
 - Master of Science in Computer Science
